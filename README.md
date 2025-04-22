@@ -43,6 +43,6 @@ benchstat -filter /method:"(Basic OR Build)" -table /partSize -row /count -col /
 
 ## Decision
 
-Without more memory footage, prefer Merge.
+Without more memory footprint, prefer Merge.
 
 If predict more than a hand of parts, switch from Basic to Build.
